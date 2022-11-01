@@ -1,0 +1,27 @@
+https://www.kaggle.com/datasets/dev523/ml-marathon-dataset-by-azure-developer-community?select=data.csv
+
+Programming Requirements
+- Begin with a train/test split. Use the test set for final evaluation only.
+- Train your model using the training data only.
+- Apply transformations as needed:
+	- Impute missing values (or drop them)
+	- Encode and scale your data
+	- Select a representative subset of predictor variables
+- Tune model parameters and hyperparameters using cross-validation
+- Evaluate your model with data in the test set. Present metrics which quantify the predictive power of your model.
+- Write clean code with clear comments. Your code will need to be submitted with your PowerPoint presentation on the last day of class. 
+- Code should run cleanly from start to finish, not a haphazard arrangement of fragments whose order of execution is not clear.
+
+Presentation Requirements
+- You will present a PowerPoint presentation describing your model on the last day of class, November 8.
+- Present as if to a team of non-technical business leaders
+	- Do not include Python code in the presentation. That will be submitted to me separately.
+	- Use technical terms sparingly and define them briefly when you use them.
+- Your presentation should include the following:
+	- Summary of the problem being addressed (cite your data source)
+	- Descriptive statistics or graphics revealing insights into the nature of the data used in the model
+	- A baseline model which is easy for a non-technical audience to understand
+	- A strategy for improving predictive power beyond the capabilities of the baseline model
+	- Final model evaluation with metrics presented with non-technical explanations
+- Duration: 12 to 15 mins
+- Number of slides: 4 to 8.
