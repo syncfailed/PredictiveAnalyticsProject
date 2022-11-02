@@ -25,3 +25,10 @@ Presentation Requirements
 	- Final model evaluation with metrics presented with non-technical explanations
 - Duration: 12 to 15 mins
 - Number of slides: 4 to 8.
+
+
+logistic regression 
+rand forest
+decision trees 
+
+probability vs neg classification
